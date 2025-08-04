@@ -21,6 +21,8 @@ vector<int> generatePrimes(int limit) {
     return primes;
 }
 //hi all
+
+// This program generates prime numbers up to a given limit
 int main() {
     int limit;
     cout << "Enter the upper limit to generate primes: ";
