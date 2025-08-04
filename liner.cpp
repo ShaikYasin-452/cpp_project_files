@@ -3,7 +3,7 @@
 #include <vector>
 
 using namespace std;
-
+// This program prints all fruits starting with 'A' and the alphabet in reverse order
 int main() {
     // Print all 'A' fruits from a list of fruit strings
     vector<string> fruits = {"Apple", "Banana", "Avocado", "Grape", "Apricot"};
