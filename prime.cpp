@@ -20,7 +20,7 @@ vector<int> generatePrimes(int limit) {
     }
     return primes;
 }
-
+//hi all
 int main() {
     int limit;
     cout << "Enter the upper limit to generate primes: ";
